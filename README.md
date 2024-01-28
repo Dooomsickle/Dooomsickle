@@ -7,6 +7,8 @@
 #### UnityEngine Mod Dev, also doing android reverse engineering
 also the funniest man on earth (part time)
 
+call me doom or connor, either works ;)
+
 doing lots of stuff behind the scenes
 
 ##### C# is my bread and butter :grin:
