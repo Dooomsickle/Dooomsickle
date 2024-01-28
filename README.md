@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/Build-Not_passing-red)
 
-#### UnityEngine Mod Dev
+#### UnityEngine Mod Dev, also doing android reverse engineering
 also the funniest man on earth (part time)
 
 doing lots of stuff behind the scenes
