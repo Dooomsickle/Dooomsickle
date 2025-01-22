@@ -13,4 +13,5 @@
 ### <b>competing in vex robotics (V5RC) 3921A</b>
 
 i do game modding (c# and c++) and a bit of web development (js/ts/node)
+
 est/utc-5
