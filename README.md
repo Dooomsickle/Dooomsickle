@@ -10,15 +10,8 @@
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg)
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/vr.svg)
 
-### hi there.
+competing in vex robotics (V5RC) 3921A
 
-i'm doom (or connor, whichever you prefer).
+i do game modding (c# and c++) and a bit of web development (js/ts/node)
 
-- past vrchat mod dev
-- student, still in high school
-- beginner reverse engineer (android apps, namely)
-- <b>punk rock!!!!! metalcore!!!!!</b>
-
-i do a lot of .NET.
-
-same as probably every other person on here, i started off by doing web dev.
+est/utc-5
